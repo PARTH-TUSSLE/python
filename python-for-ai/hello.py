@@ -48,3 +48,4 @@ my_set2 = {"hello", 1, False}
 scores = {40,40} # Duplicates not allowed
 
 print(scores)
+
