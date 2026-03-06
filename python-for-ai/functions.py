@@ -16,3 +16,4 @@ def multiple_returns():
 
 first, last = multiple_returns()
 print(first, last)
+
