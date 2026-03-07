@@ -1,4 +1,5 @@
 name = "Shivang"
+
 #dynamic values
 print(f"My name is {name}")#fstrings
 temp = 31
